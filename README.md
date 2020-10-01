@@ -1,5 +1,5 @@
 # Linked-List-in-python.
-# Create Linked List object to initialize the Linked List.
+# Initialize the Linked List object.
 eg. linkedlist = LinkedList()
 # Methods.
 1. add_end(data) => Add the node at end of the Linked List.
